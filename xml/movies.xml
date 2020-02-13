@@ -4,14 +4,74 @@
      <age>  27 years old </age>
      <birthday> april 10, 1992 </birthday>
      </actor>
+    
+    <actor>
+     <name> mark hamill </name>
+     <age>  68 years old </age>
+     <birthday> september 25, 1951 </birthday>
+     </actor>
+</actors>
 
 <movie>
     <movie>
      <name> star wars: the last jedi </name>
      <release> december 15 2017 </release>
      <owner> disney </owner>
-
-
-     < movie name="star wars: the last jedi" release="december 15 2017" owner="disney">
-      <actor name="daisy ridley" age="27 years old" birthday="april 10, 1992"
+     <director> rian johnson </director>
+     <writers> rian johnson, george lucas </writers>
+     <rating> pg-13 </rating> 
+     <length> 2 hours and32 minutes </length>
      </movie>
+
+<movie> 
+    <movie>
+     <name> joker </name>
+     <release> october 4 2019 </release>
+     <owner> warner bros </owner>
+     <director> todd phillips </director>
+     <writers> todd phillips, scott silver </writers>
+     <rating> R </rating>
+     <length> 2 hours and 2 minutes </length>
+    </movie>
+
+    <actors>
+     <actor> 
+      <name> joaquin phoenix </name>
+      <age> 45 years old </age>
+      <birthday> october 28, 1974 </birthday>
+     </actor>
+
+     <actor> 
+      <name> robert de niro </name>
+      <age> 76 years old </age>
+      <birthday> august 17, 1943 </birthday>
+     </actor>
+    </actors>
+
+<movie>
+    <movie>
+      <name> harley quinn: birds of prey </name>
+      <release> februry 7 2020 </release>
+      <owner> warner bros </owner>
+      <director> cathy yan </director>
+      <writer> christina hodson </writer>
+      <rating> R </rating>
+      <length> 1 hour and 49 minutes </length>
+    </movie> 
+
+    <actors>
+     <actor>
+       <name> margot robbie </name>
+       <age> 29 years old </age> 
+       <birthday> july 2, 1990 </birthday>      
+     </actor>
+
+     <actor>
+       <name> ella jay basco </name>
+       <age> 13 years old </age>
+       <birthday> september 7, 2006 </birthday>
+     </actor>
+     </actors>   
+
+
+     
