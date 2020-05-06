@@ -1,2 +1,4 @@
 .DS_STORE
 *.swp
+.env
+node_modules
