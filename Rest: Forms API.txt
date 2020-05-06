@@ -1,0 +1,5 @@
+[ACTION] Filling out the information and clicking submit to create an account.
+<PARAMETERS> The forms part of the assignment where you put your information.
+/PATH {':' denotes Params} - <!DOCTYPE html>
+RESULT - The create account button  
+DESCRIPTION - 
